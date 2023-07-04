@@ -94,3 +94,177 @@
     text-align: center;
     justify-content: space-between;
 }
+
+    /* Xusan section4*/
+.contact h4{
+    border: 0.5px solid #CECECE;
+    width: 180px;
+    height: 24px;
+    margin-left: 520px;
+    color:#1C1C1C;
+    letter-spacing: 4px;
+}
+.call{
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    align-items: center;
+}
+
+.adre{
+    border: 2px solid #E1E1E1;
+    width: 386.67;
+    height: 319.5;
+    padding: 61px 91px 61px 91px;
+    gap: 10px;
+    align-items: center;
+}
+
+
+.section4{
+    width: 1200px;
+    height: 849px;
+    background-color: #DCEDFE;
+    margin-top: 80px;
+    padding: 100px;
+}
+
+.name input{
+    width: 490px;
+    height: 65px;
+    background-color: #FFFFFF;
+    color: #DCDCDC;
+    border: 1px solid #DCDCDC;
+    padding: 20px;
+    margin: 10px;
+}
+
+.full{
+    display: flex;
+    gap: 20px;
+
+}
+
+.full p{
+    margin-right: 400px;
+}
+
+.emal{
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.emal p{
+    margin-right: 400px;
+}
+
+.mess{
+    margin-top: 20px;
+}
+.mess input{
+    width: 1000px;
+    height: 300px;
+    color: #DCDCDC;
+    background-color: #FFFFFF;
+    border: 1px solid #DCDCDC;
+    padding-bottom: 250px;
+} 
+
+.mess .name p{
+    margin-right: 850px;
+}
+
+.send button{
+    width: 201px;
+    height: 60px;
+    color: #fff;
+    background-color: #0152A8;
+    margin-top: 20px;
+    border: none;
+}
+
+
+.section11{
+
+    width: 1734.53px;
+    height: 500px;
+    background-color: #E5F2EF;
+    margin: 0 auto;
+    margin-top: 1000px;
+}
+.appo{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+}
+
+.section11 p{
+    border: 1px solid #E5F2EF;
+    width: 290px;
+    color: #545454;
+}
+
+.section11 input{
+    width: 325px;
+    height: 60px;
+    padding-left: 20px;
+}
+
+.section11 button{
+    width: 138px;
+    height: 60px;
+    background-color: #0152A8;
+    color: #fff;
+    font-size: 17px;
+    border: none;
+}
+
+.section11 a{
+    text-decoration: none;
+    color: #545454;
+}
+
+.cap .ph{
+    margin-top: 10px;
+}
+.ph{
+    margin-top: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 16px;
+    padding: 20px;
+
+}
+
+.ph a{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.section12{
+    width: 1734px;
+    height: 100px;
+    color: #545454;
+    text-align: center;
+    margin-top: 0px;
+    border: 1px solid #fff;
+
+}
+
+.section12 p{
+    width: 1200px;
+    border: 1px solid #fff;
+    
+}
+.logoTenX{
+    text-align: center;
+    justify-content: center;
+    padding-left: 400px;
+}
+.logoTenX a{
+    text-decoration: none;
+    justify-content: center;
+}
